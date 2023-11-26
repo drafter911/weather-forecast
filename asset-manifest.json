@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/weather-forecast/static/js/main.dfc992d8.js",
+    "static/js/787.8ea20b6d.chunk.js": "/weather-forecast/static/js/787.8ea20b6d.chunk.js",
+    "index.html": "/weather-forecast/index.html",
+    "main.dfc992d8.js.map": "/weather-forecast/static/js/main.dfc992d8.js.map",
+    "787.8ea20b6d.chunk.js.map": "/weather-forecast/static/js/787.8ea20b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dfc992d8.js"
+  ]
+}
